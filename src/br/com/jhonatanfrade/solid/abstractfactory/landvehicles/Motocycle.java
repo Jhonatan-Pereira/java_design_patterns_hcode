@@ -1,6 +1,6 @@
-package br.com.jhonatanfrade.designpattern.factory.vehicles;
+package br.com.jhonatanfrade.solid.abstractfactory.landvehicles;
 
-public class Motorcycle implements IVehicle {
+public class Motocycle implements ILandVehicle {
 
   @Override
   public void startRoute() {
@@ -11,7 +11,6 @@ public class Motorcycle implements IVehicle {
   @Override
   public void getCargo() {
     System.out.println("Já pegamos a encomenda");
-
   }
   
 }
