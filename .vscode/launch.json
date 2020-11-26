@@ -16,7 +16,7 @@
       "request": "launch",
       "mainClass": "br.com.jhonatanfrade.designpattern.factory.Main",
       "projectName": "FactoryMethod_fad37b4e",
-      "args": "uber"
+      "args": "ibi"
     }
   ]
 }
