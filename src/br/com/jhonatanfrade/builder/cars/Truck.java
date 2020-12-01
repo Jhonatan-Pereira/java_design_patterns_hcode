@@ -19,7 +19,9 @@ public class Truck {
 
   public String result() {
     String truck = "Truck with motor: " + engine.getPower() + "\n";
-    truck += " Transmission: " + transmission;
+    truck += " Transmission: " + transmission + "\n";
+    truck += " seats: " + seats + "\n";
+    truck += " carType: " + carType + "\n";
 
     return truck;
   }
