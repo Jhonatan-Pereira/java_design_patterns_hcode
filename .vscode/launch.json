@@ -8,6 +8,13 @@
       "type": "java",
       "name": "CodeLens (Launch) - Main",
       "request": "launch",
+      "mainClass": "br.com.jhonatanfrade.bridge.Main",
+      "projectName": "FactoryMethod_fad37b4e"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
       "mainClass": "br.com.jhonatanfrade.adapter.Main",
       "projectName": "FactoryMethod_fad37b4e"
     },
