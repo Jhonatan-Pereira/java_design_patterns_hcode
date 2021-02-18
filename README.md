@@ -1,14 +1,40 @@
-## Getting Started
+<p align="center">
+  <h1 align="center">
+    Curso de Design Patterns com JAVA
+  </h1>
+</p>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## About
+Este Projeto foi desenvolvido para fins acadêmicos através do curso [Design Patterns com Java - Entendendo Padrões de Projetos](https://www.udemy.com/course/curso-design-patterns-java/) da [Hcode Treinamentos](https://www.udemy.com/user/hcode/).
 
-## Folder Structure
+# Design Patterns
 
-The workspace contains two folders by default, where:
+## Criacional
+- Factory Method
+- Abstract Factory
+- Builder
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Estrutural
+- Adapter
+- Bridge
 
-## Dependency Management
+## Comportamental
+- Chain of Responsability
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+## Princípios do SOLID
+
+### S - Single Responsability Principle - Princípio da Responsabilidade Única
+
+### O - Open/Closed Principle - Princípio Aberto/Fechado
+
+### L - Liskov Substitution Principle - Princípio da Substituição de Liskov
+
+### I - Interface Segregation Principle - Princípio da Segregação de Interfaces
+
+### D - Dependency Inversion Principle - Princípio da Inversão de Dependência
+
+<hr>
+
+## Author
+
+Jhonatan Frade <jhonatanfrade.pereira@gmail.com>
