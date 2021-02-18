@@ -10,16 +10,16 @@ Este Projeto foi desenvolvido para fins acadêmicos através do curso [Design Pa
 # Design Patterns
 
 ## Criacional
-- Factory Method
-- Abstract Factory
-- Builder
+- [Factory Method](https://github.com/Jhonatan-Pereira/java_design_patterns_hcode/tree/main/src/br/com/jhonatanfrade/designpattern/factory)
+- [Abstract Factory](https://github.com/Jhonatan-Pereira/java_design_patterns_hcode/tree/main/src/br/com/jhonatanfrade/solid/abstractfactory)
+- [Builder](https://github.com/Jhonatan-Pereira/java_design_patterns_hcode/tree/main/src/br/com/jhonatanfrade/builder)
 
 ## Estrutural
-- Adapter
-- Bridge
+- [Adapter](https://github.com/Jhonatan-Pereira/java_design_patterns_hcode/tree/main/src/br/com/jhonatanfrade/adapter)
+- [Bridge](https://github.com/Jhonatan-Pereira/java_design_patterns_hcode/tree/main/src/br/com/jhonatanfrade/bridge)
 
 ## Comportamental
-- Chain of Responsability
+- [Chain of Responsability](https://github.com/Jhonatan-Pereira/java_design_patterns_hcode/tree/main/src/br/com/jhonatanfrade/ChainOfResponsability)
 
 ## Princípios do SOLID
 
